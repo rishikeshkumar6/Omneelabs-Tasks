@@ -1,0 +1,28 @@
+/* Sidebar.css */
+
+.sidebar {
+    width: 20%;
+    font-weight: bold;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .sidebar-item {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #555;
+  }
+  
+  .submodule {
+    margin-left: 15px;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    padding-left: 10px;
+    border-left: 1px solid #555;
+  }
+  
+  /* Add additional styling as needed */
+  

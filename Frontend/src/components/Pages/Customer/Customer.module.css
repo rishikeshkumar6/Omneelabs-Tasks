@@ -1,0 +1,15 @@
+.parent{
+    display: flex;
+    gap: 1rem;
+    
+}
+
+.vendor{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+button{
+    height: 20%;
+}

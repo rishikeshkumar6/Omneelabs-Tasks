@@ -1,0 +1,14 @@
+.parent{
+    display: flex;
+    font-weight: bold;
+    gap: 1rem;
+}
+
+form{
+    display: flex;
+   
+}
+select{
+    border: 1px solid gray;
+}
+

@@ -1,0 +1,28 @@
+.parent{
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+
+.firstChild{
+    flex: 1;
+}
+
+button{
+    font-size: 1.5rem;
+}
+
+.box{
+    display: flex;
+    position: relative;
+    background-color: cornflowerblue;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 30%;
+    height: 42rem;
+   
+}
+
+
